@@ -3,3 +3,8 @@ PROYECTO 1
 Texto de prueba ejercicio subir a github
 Instructivo previo a clase.
 ---------------------------------------------
+
+PUNTO 2
+---------------------------------------------
+Probando sincronizacion de commit en github online
+---------------------------------------------
